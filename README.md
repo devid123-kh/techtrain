@@ -1,3 +1,3 @@
 # techtrain
 
-Gitgub master  
+Github master  
